@@ -1,0 +1,1 @@
+python spotifyrec/manage.py runserver
